@@ -1,5 +1,5 @@
 // import functions from functions.js here
-
+const {sayHello, add, subtract} = require('./functions')
 
 
 //

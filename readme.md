@@ -7,5 +7,5 @@
 - However, main.js is attempting to use these functions.
 - Start by exporting the functions in the functions.js file.
 - Then, import these functions into main.js.
-- TIP: Given that the functions are referenced only by their name as written in functions.js, you will need to use object destructuring when you import these functions.
+- TIP: Given that the functnpions are referenced only by their name as written in functions.js, you will need to use object destructuring when you import these functions.
 - The tests will pass when you have correctly exported and imported.
